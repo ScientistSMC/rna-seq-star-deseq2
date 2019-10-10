@@ -81,3 +81,5 @@ The following recipe provides established best practices for running and extendi
 ## Testing
 
 Tests cases are in the subfolder `.test`. They are automtically executed via continuous integration with Travis CI.
+
+# This is me testing what happens when I edit a file and push changes.
